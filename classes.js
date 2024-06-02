@@ -69,12 +69,3 @@ console.log("Google Employees:", google.employees);
 console.log("Apple Name:", apple.name);
 console.log("Apple Value:", apple.value);
 console.log("Apple Employees:", apple.employees);
-
-// Log details from the superclass method to verify inheritance
-console.log("Google Name (superclass):", google.name);
-console.log("Google Value (superclass):", google.value);
-console.log("Google Employees (superclass):", google.employees);
-
-console.log("Apple Name (superclass):", apple.name);
-console.log("Apple Value (superclass):", apple.value);
-console.log("Apple Employees (superclass):", apple.employees);
